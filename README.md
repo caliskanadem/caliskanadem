@@ -1,4 +1,4 @@
-👋 Hello there! I'm Adem CALISKAN <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif alt="Typing SVG" /></a>
+👋 Hello there! I'm Adem CALISKAN <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GITHUB++%F0%9F%91%8B" alt="" /></a>
 <!--
