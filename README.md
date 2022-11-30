@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ![image_720](https://user-images.githubusercontent.com/119426518/204843432-aa450f2a-a11b-4bb9-b734-7e493d645fe3.png)
 
-/*
+<!--
 <p><h3><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="" /></a> LINKS:</h3></p>
-*/
+-->
