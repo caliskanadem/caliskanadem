@@ -9,8 +9,9 @@
   <a href="https://twitter.com/ad3mcalikan"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/twitter.svg" alt="Linkedin" style="width: 50px; display: inline-block;"></a>
   
 </div>
-
+<hr>
 <h2>My Hobbies😄</h3>
+<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/twitter.svg" alt="Linkedin" style="width: 50px; display: inline-block;">
 
 
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="" /></a>
