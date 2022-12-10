@@ -11,8 +11,11 @@
 </div>
 <hr>
 <h2>My Hobbies😄</h3>
-<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/html5.svg" alt="html5" style="width: 50px; display: inline-block;">
-<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/css.svg" alt="css" style="width: 50px; display: inline-block;">
+<ul style="">
+  <li><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/html5.svg" alt="html5" style="width: 50px; display: inline-block;"></li>
+  <li><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/css.svg" alt="css" style="width: 50px; display: inline-block;"></li>
+
+
 
 
 
