@@ -12,6 +12,8 @@
 <hr>
 <h2>My Hobbies😄</h3>
 <img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/html5.svg" alt="html5" style="width: 50px; display: inline-block;">
+<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/css.svg" alt="css" style="width: 50px; display: inline-block;">
+
 
 
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="" /></a>
