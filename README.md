@@ -9,9 +9,10 @@
   <a href="https://twitter.com/ad3mcalikan"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/twitter.svg" alt="Twitter" style="width: 50px; display: inline-block;"></a>
   
 </div>
-<hr>
+
 
 <!--
+<hr>
 <h2>My Hobbies😄</h3>
 <div>
 <img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/html5.svg" alt="html5" style="width: 50px; display: inline-block;">
