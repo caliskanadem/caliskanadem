@@ -13,7 +13,9 @@
 <h2>My Hobbies😄</h3>
 <div>
 <img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/html5.svg" alt="html5" style="width: 50px; display: inline-block;">
-<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/javascript.svg" alt="js" style="width: 50px; display: inline-block;"></div>
+<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/javascript.svg" alt="js" style="width: 50px; display: inline-block;">
+<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/css.svg" alt="css" style="width: 50px; display: inline-block;">
+</div>
 
 
 
