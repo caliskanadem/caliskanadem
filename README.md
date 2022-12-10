@@ -4,6 +4,8 @@
 
 <a href="https://github.com/caliskanadem"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/github.svg" alt="Linkedin" style="width: 40px;"></a>
 
+<a href="https://https://www.linkedin.com/in/adem-caliskan-03177710a/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/linkedin.svg" alt="Linkedin" style="width: 40px;"></a>
+
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="" /></a>
 <!--
 **caliskanadem/caliskanadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
