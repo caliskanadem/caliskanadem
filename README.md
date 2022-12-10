@@ -1,12 +1,10 @@
 👋 Hello there! I'm Adem CALISKAN 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GITHUB++%F0%9F%91%8B" alt="" /></a>
-
-<table style="border: 0">
-    <tr><td colspan="3"><a href="https://github.com/caliskanadem"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/github.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a></td>
-    <td colspan="3"><a href="https://https://www.linkedin.com/in/adem-caliskan-03177710a/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/linkedin.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a></td></tr>
-</table>
-
+<div>
+<a href="https://github.com/caliskanadem"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/github.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a>
+<a href="https://https://www.linkedin.com/in/adem-caliskan-03177710a/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/linkedin.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a>
+</div>
 
 
 
