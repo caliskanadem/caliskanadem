@@ -2,11 +2,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GITHUB++%F0%9F%91%8B" alt="" /></a>
 <div>
-<a href="https://github.com/caliskanadem"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/github.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a>
-<a href="https://https://www.linkedin.com/in/adem-caliskan-03177710a/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/linkedin.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a>
-<a href="https://www.instagram.com/adm.caliskan/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/instagram.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a>
-  <a href="https://www.facebook.com/caliskanadm/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/facebook.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a>
-  <a href="https://twitter.com/ad3mcalikan"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/twitter.svg" alt="Linkedin" style="width: 40px; display: inline-block;"></a>
+<a href="https://github.com/caliskanadem"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/github.svg" alt="Linkedin" style="width: 50px; display: inline-block;"></a>
+<a href="https://https://www.linkedin.com/in/adem-caliskan-03177710a/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/linkedin.svg" alt="Linkedin" style="width: 50px; display: inline-block;"></a>
+<a href="https://www.instagram.com/adm.caliskan/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/instagram.svg" alt="Linkedin" style="width: 50px; display: inline-block;"></a>
+  <a href="https://www.facebook.com/caliskanadm/"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/facebook.svg" alt="Linkedin" style="width: 50px; display: inline-block;"></a>
+  <a href="https://twitter.com/ad3mcalikan"><img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/twitter.svg" alt="Linkedin" style="width: 50px; display: inline-block;"></a>
   
 </div>
 
