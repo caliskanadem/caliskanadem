@@ -1,55 +1,65 @@
 
-# 👋 Hello there! I'm Adem CALISKAN
-#<a href="https://www.instagram.com/adm.caliskan/">
-  <img align="left" alt="Adem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+# <div align="center">👋 Hello there! I'm Adem CALISKAN <img alt="GIF" src="https://media.tenor.com/A3qaVncurssAAAAM/kroppa-g%C4%B1f.gif" width="60" height="52" /> <img alt="GIF" src="https://images.ctfassets.net/0nm5vlv2ad7a/6naVcO5MsOWXuYiol4l43R/9170af8985a9af2f9218cb02806eecbc/benefits-of-react.png" width="60" height="62" /></div>
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Adem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<br/>
 
-I studied at Yesilyayla Anatolian Technical and Industrial Vocational High School on Computer Programming. I completed my internships at Toshiba Falcon authorized service. I continued my university education in the Department of Computer Programming at Bursa Uludag University Vocational School. I got into Süleyman Demirel University Faculty of Engineering Computer Engineering department with the success I got in the Dgs exam. I graduated from the Department of Computer Engineering, Faculty of Engineering, Süleyman Demirel University, which is a 4-year education, with a high success in 3 years. I completed my internship at Bilge Engineering in Adana. I'm received Front End Developer Training at Clarusway. Excellent communication and professional working skills, intuitive and prone to both independent and teamwork environment, analytical thinking, hardworking and passionate about work...
 
-<br/><br/><br/>
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="200" height="170" />
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
+:computer: Self-taught front-end developer
 
-🖖 𝗩𝘂𝗲.𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 𝗪𝗲𝗯𝟯 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🌵 𝗔𝗴𝗮𝘃𝗲 𝗻𝗮𝗻𝗻𝘆
-
-
-
-<!--
-<hr>
-<h2>My Hobbies😄</h3>
-<div>
-<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/html5.svg" alt="html5" style="width: 50px; display: inline-block;">
-<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/javascript.svg" alt="js" style="width: 50px; display: inline-block;">
-<img src="https://github.com/caliskanadem/projects.github.io/blob/main/homework/images/com-img/css.svg" alt="css" style="width: 50px; display: inline-block;">
-</div>
--->
+<b>
+  🖖 ReactJS aficionado | 🔐 Web3 Learner | ☕️ Coffee Lover | 🌵 Researcher
+</b>
+<br/><br/>
+⏳ Year progress { ███████████████████████████████▁▁▁▁ } 87.41 %
 
 
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" width="500" height="420" />
 
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="" /></a>
-<!--
-**caliskanadem/caliskanadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/><br/>
 
-Here are some ideas to get you started:
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📋💻 Programming Languages:
+    
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+    
+- 🎨 Frameworks & Libraries:
 
-![image_720](https://user-images.githubusercontent.com/119426518/204843432-aa450f2a-a11b-4bb9-b734-7e493d645fe3.png)
+   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+   ![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+   ![STYLED COMPONENTS](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<!--
-<p><h3><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="" /></a> LINKS:</h3></p>
--->
+
+    
+- 🎛️ Application and Tools:
+
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+    ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+<br/>
+
+  
+  <div align="center">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🥰❤️</b></em>
+  </div>
+
+  
