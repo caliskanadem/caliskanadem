@@ -21,9 +21,9 @@
 
 <br/><br/>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Technical Skills
 
-- 📋💻 Programming Languages:
+- 💻 Programming Languages:
     
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +44,7 @@
 
 
     
-- 🎛️ Application and Tools:
+- 🎛️ Application & Tools:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +56,16 @@
 
 <br/>
 
-  
+## :link: Links
+
+<p align="center">
+  <a href="mailto:ad3m.calikan@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/ad3mcalikan#3528/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/caliskanadm/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/adm.caliskan/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+</p>
+
+<br/>
   <div align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🥰❤️</b></em>
