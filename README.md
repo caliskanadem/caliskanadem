@@ -30,7 +30,7 @@
     ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
     
-- 🎨 Frameworks & Libraries:
+- 🎭 Frameworks & Libraries:
 
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -44,7 +44,7 @@
 
 
     
-- 🎛️ Application & Tools:
+- 🔐 Application & Tools:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -56,7 +56,7 @@
 
 <br/>
 
-## :link: Links
+## :link: Social Media Links
 
 <p align="center">
   <a href="mailto:ad3m.calikan@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
