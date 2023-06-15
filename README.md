@@ -64,6 +64,12 @@
   <a href="https://www.facebook.com/caliskanadm/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/adm.caliskan/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
+<br/>
+
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[Movie App](https://movie-react-app17.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov]()
 
 <br/>
   <div align="center">
