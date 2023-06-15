@@ -1,5 +1,5 @@
 
-# <div align="center">👋 Hello there! I'm Adem CALISKAN <img alt="GIF" src="https://media.tenor.com/A3qaVncurssAAAAM/kroppa-g%C4%B1f.gif" width="60" height="52" /> <img alt="GIF" src="https://images.ctfassets.net/0nm5vlv2ad7a/6naVcO5MsOWXuYiol4l43R/9170af8985a9af2f9218cb02806eecbc/benefits-of-react.png" width="60" height="62" /></div>
+# <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"> Hello there! I'm Adem CALISKAN <img alt="GIF" src="https://media.tenor.com/A3qaVncurssAAAAM/kroppa-g%C4%B1f.gif" width="60" height="52" /> <img alt="GIF" src="https://images.ctfassets.net/0nm5vlv2ad7a/6naVcO5MsOWXuYiol4l43R/9170af8985a9af2f9218cb02806eecbc/benefits-of-react.png" width="60" height="62" /></div>
 
 <br/>
 
