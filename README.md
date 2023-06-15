@@ -1,6 +1,17 @@
 
 # 👋 Hello there! I'm Adem CALISKAN 
 
+I studied at Yesilyayla Anatolian Technical and Industrial Vocational High School on Computer Programming. I completed my internships at Toshiba Falcon authorized service. I continued my university education in the Department of Computer Programming at Bursa Uludag University Vocational School. I got into Süleyman Demirel University Faculty of Engineering Computer Engineering department with the success I got in the Dgs exam. I graduated from the Department of Computer Engineering, Faculty of Engineering, Süleyman Demirel University, which is a 4-year education, with a high success in 3 years. I completed my internship at Bilge Engineering in Adana. I'm received Front End Developer Training at Clarusway. Excellent communication and professional working skills, intuitive and prone to both independent and teamwork environment, analytical thinking, hardworking and passionate about work...
+
+<a href="https://www.instagram.com/adm.caliskan/">
+  <img align="left" alt="Adem's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Adem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 :computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
