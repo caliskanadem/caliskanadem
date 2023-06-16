@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="mailto:ad3m.calikan@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/ad3mcalikan#3528/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/ad3mcalikan/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.facebook.com/caliskanadm/"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/adm.caliskan/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
