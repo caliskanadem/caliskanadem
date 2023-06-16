@@ -17,7 +17,7 @@
 ⏳ Year progress { ███████████████████████████████▁▁▁▁ } 87.41 %
 
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" width="500" height="420" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" width="400"  />
 
 <br/><br/>
 
