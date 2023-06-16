@@ -8,7 +8,7 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-🔍 Self-taught front-end developer
+📚 Self-taught front-end developer
 
 <b>
   🖖 ReactJS aficionado | 🔐 Web3 Learner | ☕️ Coffee Lover | 🌵 Researcher
