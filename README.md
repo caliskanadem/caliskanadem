@@ -81,7 +81,7 @@
 </p>
 <br/>
 
-## 🎗 Most Used Language
+## 🎗 Most Used Languages
 
 <p align=center>
   <div align=center>
