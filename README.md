@@ -44,7 +44,7 @@
 
 
     
-- 🔐 Application & Tools:
+- 🛠 Application & Tools:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -53,6 +53,20 @@
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+<br/>
+
+## ✨My Projects
+  Project Name       |Libraries and Technologies I use     |How does my project look   
+:-------------------------|-------------------------|-------------------------
+[MovieApp](https://movie-react-app17.netlify.app/) - [Repo](https://github.com/caliskanadem/movie-app/tree/main)| React - Tailwind - FireBase - DarkTheme - Router - Context - Pagination |<img src="https://media4.giphy.com/media/imXjXoWPmAzX9xv69x/giphy.gif" align="right" width="500">
+[NBALegendApp](https://nbalegends-project.netlify.app/) - [Repo](https://github.com/caliskanadem/rc07_nba-legends) | React - State - Hook - Axios |<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dnOGhhaTBiYTk2ajVkamQzbDNzcXgwZWU5cHo2bmJnaDMyMnU2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lKvH696mp9kAV2ajg2/giphy.gif" align="right" width="500">
+[AppointmentApp](https://appoinment-project.netlify.app/) - [Repo](https://github.com/caliskanadem/appoinment-project/tree/main) | React - State - Hook |<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTU3OGE0OWNjODk5NmQ5OWM1MzdjODNlOTc2NmQ5NGJmYWYyZjNlYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/6k2eLzGmSqYyimlj04/giphy.gif" align="right" width="300">
+[CheckOutPage](https://project-checkout.netlify.app/) - [Repo](https://github.com/caliskanadem/checkout-project) | React - Bootstrap - Mock API - Async - Await - Axios |<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU0NWEzY2I3MWFjNmQ3YjgzMGJjOTdmNDkzODYzYjMzN2JhYmY4MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xbwSr38j4eS9fkpj1o/giphy.gif" align="right" width="500">
+[TeknoStore](https://tekno-store.netlify.app/) - [Repo](https://github.com/caliskanadem/tekno-store) | React - State - Hook - Axios |<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNvZ2tsMHdxYmVybTB5NnFmd3VvazJsZG1xdm91em80OGVxbnJiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MJa0yYQulfY6F6oXD7/giphy.gif" align="right" width="500">
+[LibraryApp](https://gulhan-library-app.netlify.app/) - [Repo](https://github.com/caliskanadem/gulhan-library) | React - React Router - Styled Component💅 - Rest API |<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pmcmdjb3U2aHlmNzJpenh0NmlpZGhtM3g4djF2eXZwbHZsMnY1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sEjZVRmyTZqtTZBV4M/giphy.gif" align="right" width="500">
+[InterviewAccord](https://interview-accord.netlify.app/) - [Repo](https://github.com/caliskanadem/interview-accord) | React - CSS |<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM200d3djODhvM3piN2RvdnVmOTl6bHhwdGJxMmZ4anMyYmFvdDdtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hy1j9Uireef88CmtkR/giphy.gif" align="right" width="500">
+
 
 <br/>
 
@@ -66,10 +80,6 @@
 </p>
 <br/>
 
-## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[Movie App](https://movie-react-app17.netlify.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov]()
 
 <br/>
   <div align="center">
