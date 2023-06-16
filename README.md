@@ -71,7 +71,7 @@
 
 <br/>
 
-## :link: Social Media Links
+## :link: My Social Media Links
 
 <p align="center">
   <a href="mailto:ad3m.calikan@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
